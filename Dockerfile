@@ -36,6 +36,7 @@ RUN apt-get upgrade -yqq && apt-get install -y \
         libcurl3-dev \
         libxml2-dev \
         libzzip-dev \
+        libzip-dev \
         default-libmysqlclient-dev \
         mysql-client
 
